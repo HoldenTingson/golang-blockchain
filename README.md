@@ -28,5 +28,5 @@ By default, the blockchain server runs on port 5000, and the wallet server runs 
 
 # Requirements
 
-github.com/btcsuite/btcutil
-golang.org/x/crypto
+* github.com/btcsuite/btcutil
+* golang.org/x/crypto
